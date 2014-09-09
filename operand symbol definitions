@@ -1,0 +1,10 @@
++ plus #concatenates strings/ adds values on either side of the operator
+- minus #subtracts the right hand operand from the left hand operand
+/ slash #division: divides the left hand operand by right hand operand
+* asterisk #multiplication: multiplies values on either side of the operator
+% percent #modulus: divides the left hand operand by the right hand operand and returns remainder
+< less-than #checks if the value of the left operand is greater than the value of the riht operand, if yes then condition becomes true.
+> greater-than #checks if the value of left operand is less than value of right operand, if yes then condition becomes true.
+<= less-than-equal #checks if the value of the left operand is greater than or equal to right operand, if yes then condition becomes true.
+>= greater-than-equal #checks if the value of the left operand is less than right operand, if yes then condition becomes true.
+

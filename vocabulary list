@@ -1,0 +1,6 @@
+string: intergers for characters instead of numbers. Contains sentences, words, or letters
+concatenate: not communative, connects strings together in their original order.
+string formatting: to plug variables into a string.
+character: printable symbol
+\\ : prints a single backslash into the string.
+
