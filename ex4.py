@@ -1,5 +1,8 @@
+#these are variable assignments.
 cars = 100
+#Zed says you need a 4.0 instead of just a 4 so that it will be a floating point number.
 space_in_a_car = 4.0
+# = is making names for things.
 drivers = 30
 passengers = 90
 cars_not_driven = cars - drivers

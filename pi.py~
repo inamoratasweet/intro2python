@@ -1,0 +1,11 @@
+print "i will atempt to find the area of a circle"
+
+print "Radius:"
+radius = raw_input(">")
+
+print "Circumference is Pi"
+circumference = 3.14
+
+print "A=PiR2"
+  
+
